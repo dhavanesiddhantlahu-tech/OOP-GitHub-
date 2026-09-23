@@ -3,8 +3,8 @@
 
 ## Student Details
 - **Student Name:** Siddhant Lahu Dhavane
-- **PRN:** [Enter Your PRN Here]
-- **Class / Division:** S.Y. B.Tech AI & DS
+- **PRN:** 125UAD1073
+- **Class / Division:** S.Y. B.Tech AI & DS / D
 - **Department:** Department of Artificial Intelligence & Data Science
 - **Institute:** Zeal College of Engineering & Research, Pune
 
