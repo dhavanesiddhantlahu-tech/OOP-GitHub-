@@ -56,10 +56,10 @@
 ### Unit III: Polymorphism (Programs 25 - 40)
 | Program File | Topic / Concept | Description |
 | :--- | :--- | :--- |
-| `Program_25.cpp` | Function Overloading | Overloaded methods for integers, doubles, and strings. |
-| `Program_26.cpp` | Shape Area Calculator | Overloading area formulas for square, rectangle, circle, and triangle. |
-| `Program_27.cpp` | Unary Minus Operator Overloading | Negating a user-defined balance amount. |
-| `Program_28.cpp` | Prefix and Postfix ++ / -- | Increment and decrement operators with dummy parameters. |
+| `Program_25.cpp` | Function Overloading | Overloaded methods for integers, doubles, and strings[cite: 8]. |
+| `Program_26.cpp` | Shape Area Calculator | Overloading area formulas for square, rectangle, circle, and triangle[cite: 8]. |
+| `Program_27.cpp` | Unary Minus Operator Overloading | Negating a user-defined balance amount[cite: 8]. |
+| `Program_28.cpp` | Prefix and Postfix ++ / -- | Increment and decrement operators with dummy parameters[cite: 8]. |
 | `Program_29.cpp` | Binary + and - Operators | Complex number arithmetic with overloaded binary operators[cite: 8]. |
 | `Program_30.cpp` | Relational > and == Operators | Distance comparison using relational operator overloading[cite: 8]. |
 | `Program_31.cpp` | Friend / Non-Member Operator | Supporting integer-first expressions using friend operator functions[cite: 8]. |
@@ -76,10 +76,10 @@
 ### Unit IV: Files and Streams (Programs 41 - 56)
 | Program File | Topic / Concept | Description |
 | :--- | :--- | :--- |
-| `Program_41.cpp` | Writing to Text Files | Writing multiple lines of text using `ofstream`. |
-| `Program_42.cpp` | Reading Line-by-Line | Reading records sequentially with line numbering using `ifstream`. |
-| `Program_43.cpp` | Appending Data | Appending names and dates to files using `ios::app` mode. |
-| `Program_44.cpp` | File Filtering & Copying | Reading and filtering specific matching lines into a new file. |
+| `Program_41.cpp` | Writing to Text Files | Writing multiple lines of text using `ofstream`[cite: 7]. |
+| `Program_42.cpp` | Reading Line-by-Line | Reading records sequentially with line numbering using `ifstream`[cite: 7]. |
+| `Program_43.cpp` | Appending Data | Appending names and dates to files using `ios::app` mode[cite: 7]. |
+| `Program_44.cpp` | File Filtering & Copying | Reading and filtering specific matching lines into a new file[cite: 7]. |
 | `Program_45.cpp` | Text File Analytics | Counting lines, words, characters, vowels, consonants, and digits[cite: 7]. |
 | `Program_46.cpp` | Word Search Algorithm | Case-insensitive word frequency counter[cite: 7]. |
 | `Program_47.cpp` | Delimited Record Storage | Writing multi-attribute student records to a delimited text file[cite: 7]. |
@@ -99,10 +99,10 @@
 
 | Program File | Unit | Application Title | Description |
 | :--- | :---: | :--- | :--- |
-| `U1_Live_Example_01.cpp` | Unit I | Smart Agriculture Sensor Monitor | Records and monitors soil sensor readings. |
-| `U1_Live_Example_02.cpp` | Unit I | Student Attendance Management | Calculates attendance percentages and flags defaulters below 75%. |
-| `U1_Live_Example_03.cpp` | Unit I | E-Commerce Product Catalog | Inventory management using static counters and inline functions. |
-| `U1_Mini_Project.cpp` | Unit I | Smart Home Device Manager | Toggles device states across room locations. |
+| `U1_Live_Example_01.cpp` | Unit I | Smart Agriculture Sensor Monitor | Records and monitors soil sensor readings[cite: 1]. |
+| `U1_Live_Example_02.cpp` | Unit I | Student Attendance Management | Calculates attendance percentages and flags defaulters below 75%[cite: 1]. |
+| `U1_Live_Example_03.cpp` | Unit I | E-Commerce Product Catalog | Inventory management using static counters and inline functions[cite: 1]. |
+| `U1_Mini_Project.cpp` | Unit I | Smart Home Device Manager | Toggles device states across room locations[cite: 1]. |
 | `U2_Live_Example_01.cpp` | Unit II | Employee Payroll Hierarchy | Calculates full-time and part-time compensation structures[cite: 1]. |
 | `U2_Live_Example_02.cpp` | Unit II | Digital Payment Gateway | Runtime polymorphic payment processing[cite: 1]. |
 | `U2_Live_Example_03.cpp` | Unit II | Vehicle Fleet Management | Handles fleet records with class overrides[cite: 1]. |
