@@ -48,3 +48,4 @@ int main() {
     cout << "\nTotal Products in Catalog: " << Product::getTotalProducts() << endl;
     return 0;
 }
+ 
