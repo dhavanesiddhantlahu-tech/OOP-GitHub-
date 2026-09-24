@@ -22,3 +22,5 @@ int main() {
     cout << "Resolution: " << img2.width << " x " << img2.height << endl;
     return 0;
 }
+
+// CIE Day 21 Update
