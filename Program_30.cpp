@@ -17,3 +17,5 @@ int main() {
     cout << "d1 == d3: " << (d1 == d3 ? "True" : "False") << endl;
     return 0;
 }
+
+// CIE Day 22
