@@ -19,6 +19,5 @@ int main() {
     return 0;
 }
 
-// CIE Day 22
 
 
