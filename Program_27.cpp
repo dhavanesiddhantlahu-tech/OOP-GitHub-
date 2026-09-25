@@ -17,3 +17,5 @@ int main() {
     cout << "Negated "; debt.display();
     return 0;
 }
+
+// CIE Day 22
